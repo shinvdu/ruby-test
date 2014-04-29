@@ -22,7 +22,7 @@ host, port = ARGV
          STDOUT.print '> '
          STDOUT.flush
          local = STDIN.gets
-         bread if !local
+         break if !local
 
          s.puts(local)
          s.flush

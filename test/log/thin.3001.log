@@ -1,0 +1,48 @@
+Writing PID to tmp/pids/thin.3001.pid
+Exiting!
+config.ru:9:in `block in <main>': undefined method `application' for Sinatra:Module (NoMethodError)
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `load'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:72:in `start'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:200:in `run_command'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:156:in `run!'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:23:in `load'
+	from /usr/local/bin/thin:23:in `<main>'
+Writing PID to tmp/pids/thin.3001.pid
+Exiting!
+config.ru:9:in `block in <main>': undefined method `application' for Sinatra:Module (NoMethodError)
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `load'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:72:in `start'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:200:in `run_command'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:156:in `run!'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:23:in `load'
+	from /usr/local/bin/thin:23:in `<main>'
+Writing PID to tmp/pids/thin.3001.pid
+Exiting!
+config.ru:9:in `block in <main>': undefined method `application' for Sinatra:Module (NoMethodError)
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `eval'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/rack/adapter/loader.rb:33:in `load'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:182:in `load_rackup_config'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/controllers/controller.rb:72:in `start'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:200:in `run_command'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/lib/thin/runner.rb:156:in `run!'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/thin-1.6.1/bin/thin:6:in `<top (required)>'
+	from /usr/local/bin/thin:23:in `load'
+	from /usr/local/bin/thin:23:in `<main>'

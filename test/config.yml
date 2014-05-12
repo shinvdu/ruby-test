@@ -1,0 +1,13 @@
+environment: production
+chdir: /home/silas/ruby/test
+address: 127.0.0.1
+user: silas
+group: silas
+port: 4567
+pid: /home/silas/ruby/test/thin.pid
+rackup: /home/silas/ruby/test/config.ru
+log: /home/silas/ruby/test/thin.log
+max_conns: 1024
+timeout: 30
+max_persistent_conns: 512
+daemonize: true
